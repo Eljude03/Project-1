@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  display: flex;
+    align-items: center;
+    height: 90px;
+    padding: 30px 25px;
+    background-color:#21222A;
+}
+
+.navbar > h3 {
+  margin-right: auto;
+  font-weight: 700;
+  font-size: 25px;
+  color:#61DAFB;
+}
+
+.navbar > h4 {
+  font-weight: 600;
+  color: white;
+}
